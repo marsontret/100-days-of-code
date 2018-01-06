@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Marvier Griffith]
+# #100DaysOfCode Log - Round 1 - Marvier Griffith
 
 The log of my #100DaysOfCode challenge. Started on Januaary 1, Monday, 2018.
 
