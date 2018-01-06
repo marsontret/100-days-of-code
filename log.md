@@ -61,7 +61,7 @@ https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 
-### Day 5: January 6, 2018
+### Day 6: January 6, 2018
 
 <b>Today's Progress</b>:I have started the 'Build a Tribute Page' challenge and have added an html outline on codepen.io
 
