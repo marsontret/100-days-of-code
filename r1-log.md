@@ -21,3 +21,6 @@ Have worked my way up to challenge 111: 'Build a Tribute Page'.
 
 ### R1D6
 Made first baby steps to completing tribute page challenge.
+
+### R1D6
+Worked on layout for tribute page challenge.
