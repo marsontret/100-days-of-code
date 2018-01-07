@@ -70,7 +70,7 @@ https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 <b>Links(s) to work</b>:
 https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works
 
-### Day 7: January 6, 2018
+### Day 7: January 7, 2018
 
 <b>Today's Progress</b>:I continued the 'Build a Tribute Page' challenge.
 
